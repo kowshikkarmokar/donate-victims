@@ -1,0 +1,35 @@
+.flood-victims{
+    font-family: 'Lato', sans-serif;
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    color: whitesmoke;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-position: center;
+    height: 500px
+}
+.first-banner{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 10%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+h1{
+    font-size: xx-large;
+}
+.second-banner{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 10%;
+}
+#paragraph-color{
+    color: gray;
+}
+   
